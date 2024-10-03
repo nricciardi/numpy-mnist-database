@@ -1,1 +1,3 @@
-# numpy-mnist-database
+# MNIST grayscale dataset for NumPy
+
+
